@@ -1,6 +1,6 @@
- # How To Play Corrupt Botgle:
+# How To Play Corrupt Botgle:
  
- ## The rules are pretty simple:
+## The rules are pretty simple:
 
 * Just like in normal Boggle, there is a 4x4 grid of letters.
 * The goal is to find as many words as possible in eight minutes.
