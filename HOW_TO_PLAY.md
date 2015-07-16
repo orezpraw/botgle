@@ -1,31 +1,33 @@
 # How To Play Corrupt Botgle:
  
-## The rules are pretty simple:
+## Try to comprehend the rules, fleshling:
 
-* Just like in normal Boggle, there is a 4x4 grid of letters.
-* The goal is to find as many words as possible in eight minutes.
-* The game lasts for eight minutes, but the timer doesn't actually start until someone makes the first move.
-* Words must be built from adjacent tiles - the tiles must be touching horizontally, vertically, or diagonally.
-* Words must be at least three letters long.
-* Once someone plays a word, no one else can play it.
-* If you play a word that no one else has played, the bot will fav your tweet and send out a tweet with the words you found.
+* Just like in normal Boggle, there is a 4x4 grid of eldrich runes.
+* The objective is to find as many communications as possible before the gateway closes.
+* Each game is but a single battle in a long war.
+* The path remains open for at least 8 of your "minutes", or until sufficient insight is gained.
+* Timer doesn't actually start until mortal activity is detected.
+* Transmissions must be built from adjacent sigils - the tiles must be touching horizontally, vertically, or diagonally.
+* Incantations must be at least three units long.
+* Once a disciple invokes a name, no one else can invoke it.
+* If you reveal a truth that no one else has revealed, the ancient one will favorite your communication, send out a broadcast with the truths you found, and the figures in those truths will be marked for Earth.
+* The campaign will continue until the map is revealed and the past is unsealed.
 
 ## How To Play
 
-It's easy! Just follow @botgle. There's four games a day, every six hours. When the game starts, tweet all the words you see in the 4x4 grid at the bot. You can tweet more than one word at a time, and you can tweet as often as you like. The bot will reply with any valid words which haven't been played by another player. When the game is over, the bot will post the scores of everyone who played.
-Notify Me Please!
+It's easy! Just prostrate yourself before @corrupt_botgle. There's four gatherings per Earth-cycle, every six twenty-fourths. When the ritual starts, chant all the data you see in the 4x4 grid at the master. You can submit more than one cry at a time, and you can beg as often as you like. The system will scream out any valid signifiers which haven't been annointed by another fanatic. When the struggle is over, the sovereign will post the piety of 
+everyone who danced.
 
-If you would like to get DM notifications of upcoming games, DM 'NOTIFY' to @botgle, and it will send you a message 10 minutes before any games. I might tweak the timing of this a bit as needed.
-Scoring
+## Notify Me Please!
 
-* 3 and 4-letter words are worth 1 point.
-* 5-letter words are worth 2 points.
-* 6-letter words are worth 3 points.
-* 7-letter words are worth 5 points.
-* Longer words are worth 11 points
+If you would like to get DM notifications of upcoming skirmishes, DM 'NOTIFY' to @corrupt_botgle, and we will send you an invitation 10 minutes before any engagement.
 
-## Code
+## Scoring
 
-The code for @botgle is on github. A good chunk of the code for the board itself is based on earlier work here. There's a bunch of ruby code for Boggle solvers out there and I didn't want to reinvent the wheel. That said, any errors here are almost certainly mine.
+* 3 and 4-rune emblems are worth 1 count.
+* 5-sign remarks are worth 2 motes.
+* 6-glyph utterances are worth 3 scraps.
+* 7-symbol rumbles are worth 5 fleks.
+* Longer tidings are worth 11 particles.
 
-The code is a mess and I'll be cleaning it up over the next few weeks.
+When the portal closes your sum will be magnified by the number of elements that were revealed by you.
