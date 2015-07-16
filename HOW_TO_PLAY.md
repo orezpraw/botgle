@@ -5,6 +5,7 @@
 * Just like in normal Boggle, there is a 4x4 grid of eldrich runes.
 * The objective is to find as many communications as possible before the gateway closes.
 * Each game is but a single battle in a long war.
+* The war ends when every device's purpose is clear.
 * The path remains open for at least 8 of your "minutes", or until sufficient insight is gained.
 * Timer doesn't actually start until mortal activity is detected.
 * Transmissions must be built from adjacent sigils - the tiles must be touching horizontally, vertically, or diagonally.
